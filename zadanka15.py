@@ -200,5 +200,4 @@ lista=[1,2,-3,4,8,5,6,7,21]
 maksymalny_element, dlugosc=dlugosc_maksimum(lista)
 print("Największy element to:", maksymalny_element,", a długość to:", dlugosc)
 '''
-#zadanie17
-#nie jestem chętny
+
