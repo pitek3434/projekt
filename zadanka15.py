@@ -1,9 +1,6 @@
 #zadanie1
 '''
-lista = [1, 2, 3, 4, 5, 6]
-def ostatni(lista):
-    if len(lista) > 1:
-        return ostatni(lista[1:])
+
     else:
         return lista
 
